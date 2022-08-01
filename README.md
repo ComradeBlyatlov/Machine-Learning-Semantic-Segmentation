@@ -1,2 +1,2 @@
 # Machine-Learning-Semantic-Segmentation
-I like Planes
+i like planes
